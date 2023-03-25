@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//try something
+
 class Lab02_20190808046 {
 
     public static void main(String[] args) {
